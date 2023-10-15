@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4hCcX8GulNPEKkcVyOHELt5xbgNTOR91qnndTQ3CKHg=",
+  "Source": "FiGroup_WebApi",
+  "BasePath": "_content/FiGroup_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
